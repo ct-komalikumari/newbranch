@@ -7,3 +7,4 @@ Hello world
 
 New text added
 
+text written
