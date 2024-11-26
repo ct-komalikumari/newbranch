@@ -1,15 +1,19 @@
 test.komali
 Hello kumari
-Hi this is komali
 
+Hi this is komali
 
 Hello world
 
 New text added
 
+<<<<<<< HEAD
 text written
 
 my name is komali
 
 
 Dear kumari
+=======
+text written
+>>>>>>> parent of 0e64405 (new)
