@@ -1,7 +1,9 @@
 test.komali
 Hello kumari
+<<<<<<< HEAD
 
 Hi this is komali
+<<<<<<< HEAD
 
 Hello world
 
@@ -17,3 +19,7 @@ Dear kumari
 =======
 text written
 >>>>>>> parent of 0e64405 (new)
+=======
+=======
+>>>>>>> parent of a7f7d27 (added hi)
+>>>>>>> parent of a82d164 (helloworld)
