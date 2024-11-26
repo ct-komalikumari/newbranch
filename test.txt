@@ -1,7 +1,7 @@
 test.komali
 Hello kumari
-<<<<<<< HEAD
 
 Hi this is komali
-=======
->>>>>>> parent of a7f7d27 (added hi)
+
+Hello world
+
